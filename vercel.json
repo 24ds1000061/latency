@@ -1,4 +1,6 @@
 {
+    "name": "eshopco",
+    "buildCommand": "pip install -r requirements.txt",
     "builds": [
         {
             "src": "api/index.py",
